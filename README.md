@@ -1,9 +1,8 @@
-# DSA-Lab
 # Data Structures and Algorithms Lab
 
 This repository contains implementations and test cases for various data structures and algorithms. Below is a list of all files with a brief explanation of their purpose.
 
-## Implementation Files
+## **Implementation Files**
 - **ArrayList.py**: Implements a dynamic array (ArrayList) with methods for adding, removing, and resizing.
 - **BFS.py**: Implements Breadth-First Search (BFS) and unweighted shortest path algorithms for graphs.
 - **BinarySearchtress.py**: Implements a Binary Search Tree (BST) with insertion and search functionalities.
@@ -16,7 +15,7 @@ This repository contains implementations and test cases for various data structu
 - **PriorityQueue.py**: Implements a priority queue using a min-heap.
 - **RBTrees.py**: Implements a Red-Black Tree with insertion and search functionalities.
 
-## Test Files
+## **Test Files**
 - **TestArrayList.py**: Contains unit tests for the `ArrayList` implementation.
 - **TestBFS.py**: Contains unit tests for the BFS and unweighted shortest path algorithms.
 - **TestBinarySearchtress.py**: Contains unit tests for the Binary Search Tree implementation.
@@ -28,4 +27,3 @@ This repository contains implementations and test cases for various data structu
 - **TestLinkedList.py**: Contains unit tests for the singly linked list implementation.
 - **TestPriorityQueue.py**: Contains unit tests for the priority queue implementation.
 - **TestRBTrees.py**: Contains unit tests for the Red-Black Tree implementation.
-  
